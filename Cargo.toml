@@ -1,0 +1,8 @@
+[package]
+name = "gatekeeper"
+version = "0.1.0"
+edition = "2021"
+description = "Gatekeeper is a SMTP service that validates and passes emails to their final destination."
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
